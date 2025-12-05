@@ -4,3 +4,5 @@ int main() {
     printf("Hello, World!\n");
     return 0;
 }
+
+// This code is written in C17 standard version. tkhrbi9a
